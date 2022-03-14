@@ -1,0 +1,17 @@
+#  mamba env create --name python_3.7.0 --file python_3.7.0_environment.yaml 
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - python=3.7.0
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - pysam
+  - scikit-bio=0.5.6
+  - jupyter
+  - kiwisolver
