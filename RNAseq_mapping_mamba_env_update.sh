@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Updated: 29/04/2022
+# Update: intall bedtools=2.30.0, bedops=2.4.39, minimap2=2.24, suppa=2.3
 # Updated: 28/02/2022
 # Update: install R and R packages for use with slurm
 # Updated: 15/04/2021
